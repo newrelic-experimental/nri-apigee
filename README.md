@@ -15,7 +15,7 @@ Reports Apigee performance metrics via [Apigee management API](https://docs.apig
 3. Run install.sh (as root, or the same user who owns the infrastructure agent process)
 
 ## Configuration
-All configuration options listed below are found in `nri-apigee_metrics-settings.yml`
+All configuration options listed below are found in `nri-apigee_metrics-settings.yml` 
 
 * **proxyURL**: Full proxy host/IP/port to be used to communicate with Apigee API endpoint **[OPTIONAL]**
 * **timeRange**: Time period to evaluate metrics retrieved (in minutes). For example, 5 would equate to collecting metrics over a 5 minute period
