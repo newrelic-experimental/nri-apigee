@@ -81,4 +81,4 @@ If you have any questions, or to execute our corporate CLA, required if your con
 ## License
 The New Relic Infrastructure Integration for Apigee is licensed under the [Apache 2.0](http://apache.org/licenses/LICENSE-2.0.txt) License.
 
-The New Relic Infrastructure Integration for Apigee also uses source code from third-party libraries. You can find full details on which libraries are used and the terms under which they are licensed in the [third-party notices document](https://github.com/newrelic/nri-apigee/blob/main/THIRD_PARTY_NOTICES.md).
+The New Relic Infrastructure Integration for Apigee also uses source code from third-party libraries. You can find full details on which libraries are used and the terms under which they are licensed in the [third-party notices document](https://github.com/newrelic-experimental/nri-apigee/blob/main/THIRD_PARTY_NOTICES.md).
