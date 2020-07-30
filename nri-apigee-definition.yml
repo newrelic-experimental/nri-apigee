@@ -1,0 +1,10 @@
+name: com.newrelic.nri-apigee
+description: Reports status and metrics for nri-apigee service
+protocol_version: 2
+os: linux
+
+commands:
+  metrics:
+    command:
+      - ./nri-apigee
+    interval: 300

@@ -1,0 +1,18 @@
+proxyURL:
+timeRange: 5
+dimension: apis
+queries:
+  - 'sum(message_count)'
+  - 'avg(total_response_time)'
+  - 'sum(is_error)'
+
+apigee:
+  orgs:
+   - org: development
+     baseurl: http://<ip>:<port>/v1/organizations
+     userID: user@example.com
+     password: abc123
+   # - org: production
+   #   baseurl: http://<ip>:<port>/v1/organizations
+   #   userID: user@example.com
+   #   password: abc456

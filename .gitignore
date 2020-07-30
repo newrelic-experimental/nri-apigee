@@ -1,0 +1,8 @@
+vendor/*
+bin/*
+.DS_STORE
+coverage.xml
+coverage*
+.idea
+CHANGELOG_*
+*.tar.gz

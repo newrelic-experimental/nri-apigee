@@ -1,0 +1,5 @@
+integration_name: com.newrelic.nri-apigee
+
+instances:
+  - name: nri-apigee
+    command: metrics
